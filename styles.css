@@ -1,2 +1,71 @@
+.holder{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.item1{
+	width:100px;
+	height:100px;
+	background-color:red;
+	font-size:30px;
+	font-family:bold;
+	order:7;
+	border:1px solid black;
+}
+.item2{
+	width:100px;
+	height:100px;
+	background-color:blue;
+	font-size:30px;
+	font-family:bold;
+	order:6;
+	border:1px solid black;
+}
+.item3{
+	width:100px;
+	height:100px;
+	background-color:green;
+	font-size:30px;
+	font-family:bold;
+	order:1;
+	border:1px solid black;
+}
+.item4{
+	width:100px;
+	height:100px;
+	background-color:green;
+	font-size:30px;
+	font-family:bold;
+	order:2;
+	border:1px solid black;
+}
+.item5{
+	width:100px;
+	height:100px;
+	background-color:green;
+	font-size:30px;
+	font-family:bold;
+	order:3;
+	border:1px solid black;
+}
+.item6{
+	width:100px;
+	height:100px;
+	background-color:green;
+	font-size:30px;
+	font-family:bold;
+	order:4;
+	border:1px solid black;
+}
+.item7{
+	width:100px;
+	height:100px;
+	background-color:green;
+	font-size:30px;
+	font-family:bold;
+	order:5;
+	border:1px solid black;
+}
 
-/* Your CSS Code here. */
+
